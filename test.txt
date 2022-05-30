@@ -1,1 +1,2 @@
 SeLect name FroM table2 WHEre a2
+From name SeleCt SElect aa3
